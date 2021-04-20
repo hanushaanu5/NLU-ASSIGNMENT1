@@ -1,0 +1,2 @@
+Here the sentence which i used for all the functions and define in file as sentence:
+"Smith will join the board as an executive director September 12"
